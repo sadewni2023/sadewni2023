@@ -10,7 +10,7 @@
 <details open>
 <summary align="right">✨ ✨ ✨</summary>
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Sadewni%20Mendis&fontSize=70&bgBlur=0&strokeWidth=0&strokeColor=000000&animation=twinkling" alt="Sadewni's Header Banner" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Sadewni%20Mendis&fontSize=10&bgBlur=0&strokeWidth=0&strokeColor=000000&animation=twinkling" alt="Sadewni's Header Banner" width="100%"/>
 </p>
 </details>
 
