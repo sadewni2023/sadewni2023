@@ -18,9 +18,7 @@
   <br>
   <img src="https://skillicons.dev/icons?i=figma,git,github&theme=dark" alt="Skill Icons" />
   <br>
-  <img src="https://skillicons.dev/icons?i=axure,tailwind&theme=dark" alt="Skill Icons" />
-  <br>
-  <img src="https://skillicons.dev/icons?i=nextjs&theme=dark" alt="Skill Icons" />
+  <img src="https://skillicons.dev/icons?i=nextjs,tailwind&theme=dark" alt="Skill Icons" />
 </p>
 ---
 
