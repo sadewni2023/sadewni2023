@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hi there! I'm Sadewni Mendis 👋
-### 🎓 Computer Science Undergraduate at University of Westminster (IIT)
+### 🎓 Computer Science Undergraduate at University of Westminster 
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=42A5F5&center=true&vCenter=true&width=600&lines=Building+Elegant+Digital+Solutions;UI%2FUX+Design+Enthusiast;Frontend+Specialist;Athletic+Leader" alt="Typing SVG" />
 
@@ -10,7 +10,8 @@
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,js,ts,php,html,css,react,next,tailwind,nodejs,dotnet,spring,mysql,mongodb,postgre,figma,git&theme=dark" alt="Skill Icons Banner" />
+  <img src="https://skillicons.dev/icons?i=java,python,js,ts,php,html,css,react,next,tailwind,nodejs,dotnet,spring,mysql,mongodb,postgre&theme=dark" alt="Skill Icons Banner" />
+  <img src="https://skillicons.dev/icons?i=figma,git&theme=dark" alt="Skill Icons Banner" />
 </p>
 
 ---
