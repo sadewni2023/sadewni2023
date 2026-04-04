@@ -3,8 +3,7 @@
 # Hi there! I'm Sadewni Mendis 👋
 ### 🎓 Computer Science Undergraduate | Frontend Developer | UI/UX Designer
 
-<img src="[https://readme-typing-svg.demolab.com](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4Bq3wd6c50mktGYfayZF4CWu3coPvcl4mHA&s)?font=Fira+Code&weight=600&size=24&pause=1000&color=42A5F5&center=true&vCenter=true&width=600&lines=Building+Elegant+Digital+Solutions;UI%2FUX+Design+Enthusiast;Frontend+Specialist;Athletic+Leader" alt="Typing SVG" />
-
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=001F3F&center=true&vCenter=true&width=600&lines=Building+Elegant+Digital+Solutions;UI%2FUX+Design+Enthusiast;Frontend+Specialist;Athletic+Leader" alt="Typing SVG" />
 ---
 
 <details open>
@@ -72,8 +71,10 @@ With experience as a **Netball Captain** and **Senior Prefect**, I bring strong 
   <a href="mailto:infosadewni@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" height="28">
   </a> &nbsp;
-  <img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Badge" height="28"> <strong>+94 70 366 5350</strong>
+  </a> &nbsp;
+    <img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Badge" height="28"> <strong>+94 70 366 5350</strong>
+  </a> &nbsp;
 </p>
 
-<p align="center">📍 Ambalangoda, Galle</p>
+
 </div>
