@@ -9,16 +9,18 @@
 
 ### 🛠️ Tech Stack
 
-### 🛠️ Tech Stack
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,js,ts&theme=dark" alt="Skill Icons" />
+  <img src="https://skillicons.dev/icons?i=java,python,js,ts,php,html,css&theme=dark" alt="Skill Icons" />
   <br>
-  <img src="https://skillicons.dev/icons?i=react,next,tailwind&theme=dark" alt="Skill Icons" />
+  <img src="https://skillicons.dev/icons?i=react,next,nodejs,dotnet,spring,threejs&theme=dark" alt="Skill Icons" />
   <br>
-  <img src="https://skillicons.dev/icons?i=nodejs,spring&theme=dark" alt="Skill Icons" />
+  <img src="https://skillicons.dev/icons?i=postgre,mysql,mongodb,supabase,reactnative&theme=dark" alt="Skill Icons" />
   <br>
-  <img src="https://skillicons.dev/icons?i=figma&theme=dark" alt="Skill Icons" />
+  <img src="https://skillicons.dev/icons?i=figma,git,github&theme=dark" alt="Skill Icons" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=axure,tailwind&theme=dark" alt="Skill Icons" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=nextjs&theme=dark" alt="Skill Icons" />
 </p>
 ---
 
