@@ -9,11 +9,17 @@
 
 ### 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,js,ts,php,html,css,react,next,tailwind,nodejs,dotnet,spring,mysql,mongodb,postgre&theme=dark" alt="Skill Icons Banner" height="45px" />
-  <img src="https://skillicons.dev/icons?i=figma,git&theme=dark" alt="Skill Icons Banner" height="45px" />
-</p>
+### 🛠️ Tech Stack
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,js,ts&theme=dark" alt="Skill Icons" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=react,next,tailwind&theme=dark" alt="Skill Icons" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=nodejs,spring&theme=dark" alt="Skill Icons" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=figma&theme=dark" alt="Skill Icons" />
+</p>
 ---
 
 ### 📖 About Me
