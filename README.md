@@ -41,10 +41,7 @@ Dedicated Computer Science undergraduate with a strong foundation in coding and 
 ---
 
 ### 📊 GitHub Analysis
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sadewni2023&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Sadewni's Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadewni2023&layout=compact&theme=tokyonight&hide_border=true&count_private=true" alt="Top Langs" height="180" />
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sadewni2023&theme=tokyonight&hide_border=true" alt="Streak Stats" width="600" />
