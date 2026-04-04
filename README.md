@@ -10,9 +10,8 @@
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,js,ts,php,html,css,react,next,tailwind,nodejs,dotnet,spring,mysql,mongodb,postgre&theme=dark" alt="Skill Icons Banner" />
-  <br>
-  <img src="https://skillicons.dev/icons?i=figma,git&theme=dark" alt="Skill Icons Banner" />
+  <img src="https://skillicons.dev/icons?i=java,python,js,ts,php,html,css,react,next,tailwind,nodejs,dotnet,spring,mysql,mongodb,postgre&theme=dark" alt="Skill Icons Banner" height="45px" />
+  <img src="https://skillicons.dev/icons?i=figma,git&theme=dark" alt="Skill Icons Banner" height="45px" />
 </p>
 
 ---
