@@ -3,7 +3,7 @@
 # Hi there! I'm Sadewni Mendis 👋
 ### 🎓 Computer Science Undergraduate | Frontend Developer | UI/UX Designer
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=42A5F5&center=true&vCenter=true&width=600&lines=Building+Elegant+Digital+Solutions;UI%2FUX+Design+Enthusiast;Frontend+Specialist;Athletic+Leader" alt="Typing SVG" />
+<img src="[https://readme-typing-svg.demolab.com](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4Bq3wd6c50mktGYfayZF4CWu3coPvcl4mHA&s)?font=Fira+Code&weight=600&size=24&pause=1000&color=42A5F5&center=true&vCenter=true&width=600&lines=Building+Elegant+Digital+Solutions;UI%2FUX+Design+Enthusiast;Frontend+Specialist;Athletic+Leader" alt="Typing SVG" />
 
 ---
 
