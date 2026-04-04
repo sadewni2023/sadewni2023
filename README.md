@@ -4,7 +4,6 @@
 ### 🎓 Computer Science Undergraduate | Frontend Developer | UI/UX Designer
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=42A5F5&center=true&vCenter=true&width=600&lines=Building+Elegant+Digital+Solutions;UI%2FUX+Design+Enthusiast;Frontend+Specialist;Athletic+Leader" alt="Typing SVG" />
-
 ---
 
 <details open>
