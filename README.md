@@ -11,6 +11,8 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,python,js,ts,php,html,css,react,next,tailwind,nodejs,dotnet,spring,mysql,mongodb,postgre&theme=dark" alt="Skill Icons Banner" />
+</p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=figma,git&theme=dark" alt="Skill Icons Banner" />
 </p>
 
